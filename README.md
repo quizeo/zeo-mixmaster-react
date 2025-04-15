@@ -1,4 +1,4 @@
-# zeo-cart-react
+# zeo-mixmaster-react
 
 MixMaster is a React-based cocktail app that fetches data from an API. It allows users to browse drink recipes by glass type and includes search functionality. The app uses React Router for navigation.
 
